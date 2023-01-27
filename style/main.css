@@ -78,8 +78,6 @@ button {
   border-radius: 8px;
   border-style: none;
   background-color: hsl(158deg, 36%, 37%);
-}
-button p {
   font-weight: 500;
   color: #fff;
 }
